@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_peak3" value="name:id;datatype:int,name:code_std;datatype:string,name:name_std;datatype:string,name:dep_std;datatype:string,name:tel_std;datatype:string" />
+	<infoitem key="UD_peak12" value="name:id;datatype:int,name:code_std;datatype:string,name:name_std;datatype:string,name:dep_std;datatype:string,name:tel_std;datatype:string" />
+	<infoitem key="UD_peak22" value="name:id;datatype:int,name:code_std;datatype:string,name:name_std;datatype:string,name:dep_std;datatype:string,name:tel_std;datatype:string" />
+	<infoitem key="UD_peak121" value="name:id;datatype:int,name:code_std;datatype:string,name:name_std;datatype:string,name:dep_std;datatype:string,name:tel_std;datatype:string" />
+	<infoitem key="UD_peak21" value="name:id;datatype:int,name:code_std;datatype:string,name:name_std;datatype:string,name:dep_std;datatype:string,name:tel_std;datatype:string" />
+</info>

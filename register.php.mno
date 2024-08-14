@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_res_sad_ad" value="name:id;datatype:int,name:uname;datatype:string,name:upass;datatype:string,name:myname;datatype:string,name:email;datatype:string,name:tell;datatype:string" />
+</info>
